@@ -9,4 +9,4 @@ do
   ((counter++))
 done
 
-/usr/sbin/asterisk -gcvvv
+/usr/sbin/asterisk -f
